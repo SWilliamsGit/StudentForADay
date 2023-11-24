@@ -1,8 +1,6 @@
 /******************************************************************************
 Exercise: Classes and Data Abstraction - This program allows user to enter the
 name and major of a student, and randomly generates 5 grades for them.
-Skyler Williams
-9-11-22
 *******************************************************************************/
 
 #include <iostream>
